@@ -1,0 +1,261 @@
+    {
+        "movies": [
+            {
+                "id": 0,
+                "name": "city of god",
+                "categories": [
+                    "crime",
+                    "drama"
+                ],
+                "director": "Fernando Meirelles",
+                "rate": 4,
+                "country": "brazil",
+                "language": "portuguese",
+                "image_small": "https://www.themoviedb.org/t/p/original/isqOyhYfRXr2J7LR3EYw8CVpepc.jpg",
+                "image_big": "https://www.themoviedb.org/t/p/original/cNhT3z8zpCegaZN09n3glPuwHEZ.jpg",
+                "prod_year": 2002,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "hayatımda izlediğim en iyi film",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "oldukça iyi",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            },
+            {
+                "id": 1,
+                "name": "only lovers left alive",
+                "categories": [
+                    "romance",
+                    "drama"
+                ],
+                "director": "Jim Jarmusch",
+                "rate": 3.8,
+                "country": "France",
+                "language": "English",
+                "image_small": "https://a.ltrbxd.com/resized/film-poster/1/1/4/5/6/3/114563-only-lovers-left-alive-0-230-0-345-crop.jpg?v=d6151d5d18",
+                "image_big": "https://a.ltrbxd.com/resized/sm/upload/qq/ui/gg/9j/only-lovers-left-alive-1200-1200-675-675-crop-000000.jpg?v=9c1b095561",
+                "prod_year": 2013,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "evrende yapılmış en iyi film",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "oldukça kötü",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "wild tales",
+                "categories": [
+                    "drama",
+                    "comedy",
+                    "thriller"
+                ],
+                "director": "Damián Szifron",
+                "rate": 4.1,
+                "country": "Argentina",
+                "language": "Spanish",
+                "image_small": "https://a.ltrbxd.com/resized/film-poster/1/8/8/4/9/7/188497-wild-tales-0-230-0-345-crop.jpg?v=8765a5ebdf",
+                "image_big": "https://a.ltrbxd.com/resized/sm/upload/r6/xa/jx/l6/wild-tales-1200-1200-675-675-crop-000000.jpg?v=60ddf94858",
+                "prod_year": 2014,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "çok komik, absürt ve toplumsal sorunları işleyen bir film, izleyiniz.",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "beğenmedim",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "name": "portrait of a lady on fire",
+                "categories": [
+                    "drama",
+                    "romance"
+                ],
+                "director": "Céline Sciamma",
+                "rate": 4.4,
+                "country": "France",
+                "language": "French",
+                "image_small": "https://a.ltrbxd.com/resized/film-poster/4/6/0/8/3/0/460830-portrait-of-a-lady-on-fire-0-230-0-345-crop.jpg?v=79b0f67aa9",
+                "image_big": "https://a.ltrbxd.com/resized/sm/upload/6s/c1/hx/il/portrait-of-lady-on-fire-1200-1200-675-675-crop-000000.jpg?v=9e65e80a13",
+                "prod_year": 2019,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "görüntü yönetmenini tebrik etmek lazım",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "uzun süredir izlediğim en iyi film",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "name": "the great beauty",
+                "categories": [
+                    "drama"
+                ],
+                "director": "Paolo Sorrentino",
+                "rate": 4,
+                "country": "Italy",
+                "language": "Italian",
+                "image_small": "https://a.ltrbxd.com/resized/film-poster/1/3/0/5/2/3/130523-the-great-beauty-0-230-0-345-crop.jpg?v=2c4fa5281f",
+                "image_big": "https://a.ltrbxd.com/resized/sm/upload/s3/ct/5x/zw/the-great-beauty-1200-1200-675-675-crop-000000.jpg?v=ec72ac8bb9",
+                "prod_year": 2013,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "çok estetik ve fazla elitist..",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "böylesi estetik görmemiştim doğrusu..",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "name": "planet terror",
+                "categories": [
+                    "action",
+                    "thriller",
+                    "horror"
+                ],
+                "director": "Robert Rodriguez",
+                "rate": 3.3,
+                "country": "USA",
+                "language": "English",
+                "image_small": "https://a.ltrbxd.com/resized/film-poster/5/0/6/2/0/50620-planet-terror-0-230-0-345-crop.jpg?v=d8cbbb5a09",
+                "image_big": "https://a.ltrbxd.com/resized/sm/upload/rl/pz/lg/xg/planet-terror-90-1200-1200-675-675-crop-000000.jpg?v=19429ecff1",
+                "prod_year": 2019,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "manyak bir şey! ",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "başarılı",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "name": "stalker",
+                "categories": [
+                    "sci-fi",
+                    "drama"
+                ],
+                "director": "Andrei Tarkovsky",
+                "rate": 4.4,
+                "country": "USSR",
+                "language": "Russian",
+                "image_small": "https://a.ltrbxd.com/resized/film-poster/5/1/0/6/2/51062-stalker-0-230-0-345-crop.jpg?v=1852068db9",
+                "image_big": "https://a.ltrbxd.com/resized/sm/upload/hm/9i/xs/np/stalker-1200-1200-675-675-crop-000000.jpg?v=cb028d9961",
+                "prod_year": 1979,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "ağır bir film biraz ya",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "çok ağırdı ama tarkovski kalitesi izletti",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "name": "free solo",
+                "categories": [
+                    "adventure",
+                    "documentary"
+                ],
+                "director": "Jimmy Chin",
+                "rate": 4,
+                "country": "USA",
+                "language": "English",
+                "image_small": "https://a.ltrbxd.com/resized/film-poster/4/4/4/6/1/7/444617-free-solo-0-230-0-345-crop.jpg?v=36aa06d8b2",
+                "image_big": "https://a.ltrbxd.com/resized/sm/upload/yo/f3/ok/14/free-solo-1200-1200-675-675-crop-000000.jpg?v=d39ddd4957",
+                "prod_year": 1979,
+                "comments": [
+                    {
+                        "name": "ahmet",
+                        "comment": "pek beğenmedim",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "tuğba",
+                        "comment": "masalsal bir güzellikte...",
+                        "comment_time": "16.04.2016"
+                    },
+                    {
+                        "name": "ece",
+                        "comment": "büyük cesaret, korkusuzluk, kaybedecek bir şeyinin olmaması, bana bunları düşündürttü.",
+                        "comment_time": "16.04.2016"
+                    }
+                ]
+            }
+        ]
+    }
