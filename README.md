@@ -1,3 +1,15 @@
+#### Packages I used in this project:
+- React Router v6
+- TMDB
+- Auto Animate
+- Material UI
+- Framer Motion
+- Semantic UI
+- Tailwind CSS
+- Tailwind Scrollbar Hide
+- İconify
+Other than that, I used letterboxd and TMDB for photos and data. I also used a css image effect from letterboxd.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
