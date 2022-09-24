@@ -8,6 +8,7 @@
 - Tailwind CSS
 - Tailwind Scrollbar Hide
 - İconify
+
 Other than that, I used letterboxd and TMDB for photos and data. I also used a css image effect from letterboxd.
 
 # Getting Started with Create React App
